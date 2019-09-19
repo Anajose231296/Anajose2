@@ -1,0 +1,17 @@
+16/09/2019
+Crear usuario en github (Anajose231296)
+Crear repositorio: ed con REadme.md y gittignore (plantilla de hava)
+
+Clonar en local:
+git clone http://guthub.com/Anajose231296/ed.git
+
+git config --global user.name Anajose231296
+git config --global user.email (anarod@alu.iesserpis.org)
+git config --global push.default simple
+
+git add diario.txt
+
+git commit -m "diario.txt con introducción a github y git"
+git push
+
+
