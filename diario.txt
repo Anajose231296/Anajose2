@@ -7,11 +7,14 @@ git clone http://guthub.com/Anajose231296/ed.git
 
 git config --global user.name Anajose231296
 git config --global user.email (anarod@alu.iesserpis.org)
+git log
 git config --global push.default simple
 
 git add diario.txt
 
-git commit -m "diario.txt con introducción a github y git"
-git push
+git commit -m "diario.txt configuración inicial y cear una nueva versión"
+git log
+
+git push ( permite publicar la versión en remoto)
 
 
