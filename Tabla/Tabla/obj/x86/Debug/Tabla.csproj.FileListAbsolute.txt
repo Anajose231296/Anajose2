@@ -1,0 +1,6 @@
+/home/anarod/Projects/Tabla/Tabla/obj/x86/Debug/Tabla.csprojAssemblyReference.cache
+/home/anarod/Projects/Tabla/Tabla/obj/x86/Debug/Tabla.csproj.CoreCompileInputs.cache
+/home/anarod/Projects/Tabla/Tabla/bin/Debug/Tabla.exe
+/home/anarod/Projects/Tabla/Tabla/bin/Debug/Tabla.pdb
+/home/anarod/Projects/Tabla/Tabla/obj/x86/Debug/Tabla.exe
+/home/anarod/Projects/Tabla/Tabla/obj/x86/Debug/Tabla.pdb
