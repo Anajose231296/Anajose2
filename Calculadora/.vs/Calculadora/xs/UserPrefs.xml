@@ -3,7 +3,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Calculadora/MainWindow.cs">
     <Files>
       <File FileName="Calculadora/Program.cs" Line="6" Column="20" />
-      <File FileName="Calculadora/MainWindow.cs" Line="11" Column="50" />
+      <File FileName="Calculadora/operaciones.cs" Line="14" Column="5" />
+      <File FileName="Calculadora/MainWindow.cs" Line="259" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

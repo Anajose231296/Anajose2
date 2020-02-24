@@ -1,7 +1,7 @@
 ﻿using System;
 using Gtk;
 
-namespace Calculadora
+namespace Bingo
 {
     class MainClass
     {

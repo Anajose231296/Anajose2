@@ -1,17 +1,9 @@
 ﻿<Properties StartupConfiguration="{3411614F-3B32-4085-AA1E-F035329F4CF3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pruebabotones/MainWindow.cs">
-    <Files>
-      <File FileName="Pruebabotones/Program.cs" Line="1" Column="1" />
-      <File FileName="Pruebabotones/MainWindow.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Pruebabotones" expanded="True">
-            <Node name="Pruebabotones" expanded="True">
-              <Node name="MainWindow.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="Pruebabotones" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>

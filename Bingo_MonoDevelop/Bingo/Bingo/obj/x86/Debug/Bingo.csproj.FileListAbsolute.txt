@@ -1,0 +1,6 @@
+/home/anarod/Anajose2/Bingo_MonoDevelop/Bingo/Bingo/obj/x86/Debug/Bingo.csprojAssemblyReference.cache
+/home/anarod/Anajose2/Bingo_MonoDevelop/Bingo/Bingo/obj/x86/Debug/Bingo.csproj.CoreCompileInputs.cache
+/home/anarod/Anajose2/Bingo_MonoDevelop/Bingo/Bingo/bin/Debug/Bingo.exe
+/home/anarod/Anajose2/Bingo_MonoDevelop/Bingo/Bingo/bin/Debug/Bingo.pdb
+/home/anarod/Anajose2/Bingo_MonoDevelop/Bingo/Bingo/obj/x86/Debug/Bingo.exe
+/home/anarod/Anajose2/Bingo_MonoDevelop/Bingo/Bingo/obj/x86/Debug/Bingo.pdb

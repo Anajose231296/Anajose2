@@ -4,3 +4,9 @@
 /home/anarod/Projects/Pruebabotones/Pruebabotones/obj/x86/Debug/Pruebabotones.csproj.CoreCompileInputs.cache
 /home/anarod/Projects/Pruebabotones/Pruebabotones/obj/x86/Debug/Pruebabotones.exe
 /home/anarod/Projects/Pruebabotones/Pruebabotones/obj/x86/Debug/Pruebabotones.pdb
+/home/anarod/Anajose2/Pruebabotones/Pruebabotones/bin/Debug/Pruebabotones.exe
+/home/anarod/Anajose2/Pruebabotones/Pruebabotones/bin/Debug/Pruebabotones.pdb
+/home/anarod/Anajose2/Pruebabotones/Pruebabotones/obj/x86/Debug/Pruebabotones.csprojAssemblyReference.cache
+/home/anarod/Anajose2/Pruebabotones/Pruebabotones/obj/x86/Debug/Pruebabotones.csproj.CoreCompileInputs.cache
+/home/anarod/Anajose2/Pruebabotones/Pruebabotones/obj/x86/Debug/Pruebabotones.exe
+/home/anarod/Anajose2/Pruebabotones/Pruebabotones/obj/x86/Debug/Pruebabotones.pdb
